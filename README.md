@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hunglannn
-- 📫 I’m mobile developer 
+- 📫 I’m fullstack developer
 - 📩 My email: hungran.nguyen@gmail.com
